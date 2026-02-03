@@ -1,0 +1,10 @@
+data/an4/etc/an4_test.fileids
+data
+.ipy*
+_pycache_*
+venv
+outputs
+nemo_experiments
+models
+wav
+jupyter_extension
